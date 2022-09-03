@@ -1,0 +1,16 @@
+ru/haulmont/application/DemoApplication.java
+ ru.haulmont.application.DemoApplication
+ru/haulmont/application/repository/BookRepository.java
+ ru.haulmont.application.repository.BookRepository
+ru/haulmont/application/entity/ResponseBook.java
+ ru.haulmont.application.entity.ResponseBook
+ru/haulmont/application/service/impl/BookServiceDevImpl.java
+ ru.haulmont.application.service.impl.BookServiceDevImpl
+ru/haulmont/application/service/impl/BookServiceProdImpl.java
+ ru.haulmont.application.service.impl.BookServiceProdImpl
+ru/haulmont/application/service/BookService.java
+ ru.haulmont.application.service.BookService
+ru/haulmont/application/entity/Book.java
+ ru.haulmont.application.entity.Book
+ru/haulmont/application/controller/BookController.java
+ ru.haulmont.application.controller.BookController
